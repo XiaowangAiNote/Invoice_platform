@@ -1,0 +1,7 @@
+flask
+flask-cors
+requests
+oss2
+pywebview
+pyinstaller
+httpx

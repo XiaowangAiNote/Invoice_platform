@@ -1,0 +1,15 @@
+{
+    "ACCESS_KEY_ID": "your_access_key_id",
+    "ACCESS_KEY_SECRET": "your_access_key_secret",
+    "BUCKET_NAME": "your_bucket_name",
+    "ENDPOINT": "your_endpoint",
+    "REGION": "your_region",
+    "COZE_APP_ID": "your_coze_app_id",
+    "COZE_TOKEN": "your_coze_token",
+    "WORKFLOW_IDS": {
+        "PROCESS_FILE": "your_process_file_workflow_id",
+        "SHOW_DATABASE": "your_show_database_workflow_id",
+        "ADD_DATABASE": "your_add_database_workflow_id",
+        "DELETE_DATABASE": "your_delete_database_workflow_id"
+    }
+}
