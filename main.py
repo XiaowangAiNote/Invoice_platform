@@ -43,7 +43,8 @@ def create_window():
         "发票管理平台",
         "http://localhost:5000",
         width=1200,
-        height=800
+        height=800,
+        text_select=True
     )
     
     # 启动定时器检查配置
